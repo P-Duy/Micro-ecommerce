@@ -43,3 +43,10 @@ python -m pip install pip pip-tools rav --upgrade
 rav run win_installs
 rav run win_freeze
 ```
+
+
+With all the configuration done, here are the main commands you'll run:
+
+rav run server
+rav run watch
+rav run vendor_pull

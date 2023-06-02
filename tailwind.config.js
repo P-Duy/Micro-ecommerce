@@ -3,7 +3,7 @@ module.exports = {
   content: [
     "./src/**/*.{html,js}",
     "./node_modules/flowbite/**/*.js",
-    "src\**\forms.py"
+    "./src/**/forms.py",
   ],
   theme: {
     extend: {},
